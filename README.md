@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **umistri@codal.com**
 
-- ⚡ Fun fact :- badminton⚽ is the reason to live
+- ⚡ Fun fact: Badminton is the reason to live ![Badminton](https://img.shields.io/badge/-Badminton-red?style=flat-square&logo=badminton&logoColor=white)
+
 
 
 <br>
