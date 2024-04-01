@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **umistri@codal.com**
 
-- ⚡ Fun fact :- Football⚽ is the reason to live
+- ⚡ Fun fact :- badminton⚽ is the reason to live
 
 
 <br>
