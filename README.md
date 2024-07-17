@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umang Mistry</h1>
-<h3 align="center">Software Engineering Student And Web Developer🚀</h3>
+<h3 align="center">Associate Software Developer🚀</h3>
 <br>
 
 <br>
